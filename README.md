@@ -38,5 +38,5 @@ The resulting Power BI report is thus designed to center **clarity, narrative, a
 
 ## Outcomes  
 - **Grade:** 1 (on a scale of 1 to 5, 1 being the best)  
-- Building this Power BI report offered a hands-on application of data storytelling principles.  
-This project gave me a strong foundation in combining **data visualization, storytelling, and business communication** — showing how insights become actionable when framed within a clear narrative! :D
+- Building this Power BI report offered a hands-on application of data storytelling principles.
+- This project gave me a strong foundation in combining **data visualization, storytelling, and business communication** — showing how insights become actionable when framed within a clear narrative! :D
