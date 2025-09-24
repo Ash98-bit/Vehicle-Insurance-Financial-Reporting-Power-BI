@@ -17,7 +17,7 @@ Storytelling with data is essential: numbers alone rarely persuade stakeholders,
 ## Dataset Overview  and Power BI Version Info 
 - **Dataset:** Vehicle Insurance Data  
 - **Source:** Terefe, Edossa (2023), *“Vehicle Insurance data”*, Mendeley Data, V1, doi: [10.17632/34nfrk36dt.1](https://doi.org/10.17632/34nfrk36dt.1)  
-- **Power BI Version:** Version: 2.146.1454.0 64-bit (August 2025)
+- **Power BI Version:** 2.146.1454.0 64-bit (August 2025)
 
 
 
