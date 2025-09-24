@@ -34,7 +34,7 @@ The methodology focused on building a report that is not only functional but tel
 
 The resulting Power BI report is thus designed to center **clarity, narrative, and impact**.  
 
----
+
 
 ## Outcomes  
 - **Grade:** 1 (on a scale of 1 to 5, 1 being the best)  
