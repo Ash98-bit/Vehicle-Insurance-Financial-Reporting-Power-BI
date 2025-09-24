@@ -6,20 +6,20 @@
 
 **Author:** Aditi Shilke  
 
----
+
 
 ## Project Overview  
 Since my Power BI projects cannot be abstracted in a way that can showcase proprietary reports (like I did for my Master’s thesis), this project was designed using a publicly available dataset (see below). The objective is to leverage historical company data to highlight the financial issues faced by an insurance company and present them in a narrative that is both fact-driven and visually compelling.  
 Storytelling with data is essential: numbers alone rarely persuade stakeholders, but when combined with context, structure, and visualization, they drive decisions. Power BI is used in this case as it offers a platform to connect raw data with clear, dynamic visualizations that make insights accessible to both technical and non-technical stakeholders.  
 
----
+
 
 ## Dataset Overview  and Power BI Version Info 
 - **Dataset:** Vehicle Insurance Data  
 - **Source:** Terefe, Edossa (2023), *“Vehicle Insurance data”*, Mendeley Data, V1, doi: [10.17632/34nfrk36dt.1](https://doi.org/10.17632/34nfrk36dt.1)  
 - ** Power BI Version:** Version: 2.146.1454.0 64-bit (August 2025)
 
----
+
 
 ## Approach & Methodology  
 The approach draws from the principles and reporting tips taught by Prof. Cezar Chirila and influenced by resources such as [Chandoo.org](https://chandoo.org/wp/about/) and [How to Power BI](https://www.youtube.com/@HowtoPowerBI).  
